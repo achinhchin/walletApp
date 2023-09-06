@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "928514270839",
+    "project_id": "wallet-app-a7a9a",
+    "storage_bucket": "wallet-app-a7a9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928514270839:android:72946ba71b54f4165ac872",
+        "android_client_info": {
+          "package_name": "com.achinhchin.walletapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928514270839-9tlj8i2e8gdo6unsctam6939t72u3a3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.achinhchin.walletapp",
+            "certificate_hash": "69d0553d15f99b6dab49886eed76d0ac3b766b2a"
+          }
+        },
+        {
+          "client_id": "928514270839-dh63lcjav037l69b57mmi83qphee4853.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASAkv3ogm39EWoIViK-DJi7pGOmSwS7nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928514270839-6n9c2uq2bcsaomt7910hadukg63bksn8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928514270839-gblbm69i6m6scv8nm9vt0i2neu8mced2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.walletApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
