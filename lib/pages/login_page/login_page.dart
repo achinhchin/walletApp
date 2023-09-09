@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import 'package:provider/provider.dart';
 import 'package:wallet_app/theme/theme.dart';
-import 'package:wallet_app/theme/theme.dart';
 
 //user management
 import 'package:wallet_app/user_management/user_management.dart';
